@@ -2,24 +2,40 @@
 
 body {
     background: lightgray;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Montserrat', sans-serif;
 }
 
-h1 {
+.header {
     color: black;
-    font-size: 80px;
+    margin-top: 0%;
+    background: white;
+    height: 150px;
+    line-height: 150px;
+    margin: 0%;
+    font-size: 30px;
+    text-align: left;
 }
 
 h2 {
     color: grey;
     font-size: 20px;
+    text-align: center;
 }
 
 h3 {
     color: grey;
     font-size: 20px;
+    text-align: center;
 }
 
 h4 {
     color: pink;
+}
+
+.snowboard_image {
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
