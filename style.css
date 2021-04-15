@@ -1,7 +1,25 @@
+
+
 body {
-    background: blue;
+    background: lightgray;
+    font-family:'Courier New', Courier, monospace;
 }
 
 h1 {
-    color: red;
+    color: black;
+    font-size: 80px;
+}
+
+h2 {
+    color: grey;
+    font-size: 20px;
+}
+
+h3 {
+    color: grey;
+    font-size: 20px;
+}
+
+h4 {
+    color: pink;
 }
